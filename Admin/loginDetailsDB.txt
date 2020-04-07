@@ -1,0 +1,21 @@
+Enter number of trainees in DB:
+5
+Enter Login Credentials
+Enter username:t1671712
+Enter Password:Hello123
+
+Enter Login Credentials
+Enter username:t1645312
+Enter Password:Tata@123
+
+Enter Login Credentials
+Enter username:m187231
+Enter Password:qweqwe#123
+
+Enter Login Credentials
+Enter username:t156213
+Enter Password:p@$$123
+
+Enter Login Credentials
+Enter username:m183192
+Enter Password:temp$$3
